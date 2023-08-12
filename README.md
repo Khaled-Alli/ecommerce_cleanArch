@@ -1,4 +1,4 @@
-# advanced_flutter_arabic
+# advanced_flutter_clean_architecture
 
 A new Flutter project.
 
